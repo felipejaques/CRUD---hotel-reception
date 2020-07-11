@@ -79,6 +79,6 @@ Body:
 }
 
 Url: http://localhost:8090/checkin/hospedes-checkin
-Method allowed: GET
+Method allowed: GET 
 
   
