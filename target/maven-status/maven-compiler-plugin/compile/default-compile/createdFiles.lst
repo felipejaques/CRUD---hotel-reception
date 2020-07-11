@@ -1,0 +1,13 @@
+br\com\desafioHotel\desafioHotel\exception\ObjectNotFoundException.class
+br\com\desafioHotel\desafioHotel\controller\HospedeController.class
+br\com\desafioHotel\desafioHotel\domain\Hospede.class
+br\com\desafioHotel\desafioHotel\config\WebConfig.class
+br\com\desafioHotel\desafioHotel\exception\StandardError.class
+br\com\desafioHotel\desafioHotel\exception\ControllerExceptionHandler.class
+br\com\desafioHotel\desafioHotel\domain\Checkin.class
+br\com\desafioHotel\desafioHotel\repositories\HospedeRepositories.class
+br\com\desafioHotel\desafioHotel\controller\CheckinController.class
+br\com\desafioHotel\desafioHotel\services\CheckinService.class
+br\com\desafioHotel\desafioHotel\repositories\CheckinRepositories.class
+br\com\desafioHotel\desafioHotel\DesafioHotelApplication.class
+br\com\desafioHotel\desafioHotel\services\HospedeService.class
